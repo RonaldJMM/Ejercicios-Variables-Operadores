@@ -9,7 +9,9 @@ import java.util.Scanner;
 
 /**
  *
- * @author Ronald
+ * @author Ronald Jefrey Moreno Mora
+ * Grupo 301
+ * Programacion II
  */
 public class EjerciciosVariablesOperadores {
 
